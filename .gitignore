@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 数据文件（不上传）
+data/*.db
+data/chroma/
+data/chroma_kb/
+memory.db
+*.db
+
+# 配置（含 API Key，不上传）
+config.py
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db

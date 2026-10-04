@@ -1,0 +1,7 @@
+openai
+faster-whisper
+sounddevice
+soundfile
+numpy
+edge-tts
+playsound==1.2.2
